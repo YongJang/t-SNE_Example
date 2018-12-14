@@ -1,7 +1,7 @@
 # t-SNE Example Code.
 t-SNE Example code which uses students' answers data.<br>
-This code omits a process of making term-doc matrix (downloads the preprocessed data directly).<br>
-Each of the data file contains term-doc matrix extracted from one of 31 questions (written in Korean).<br>
+This code omits a process of making term-doc matrices (downloads the preprocessed data directly).<br>
+Each of the data file contains the term-doc matrix extracted from one of 31 questions (written in Korean).<br>
 
 # Dependencies
 ```bash

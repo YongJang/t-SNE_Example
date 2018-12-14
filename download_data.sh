@@ -1,0 +1,1 @@
+for i in {1..31}; do wget https://s3.ap-northeast-2.amazonaws.com/yongjang/autoscoring/preprocessed_data_bin_2_$i.pkl; done

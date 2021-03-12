@@ -8,7 +8,7 @@ Each of the data file contains the term-doc matrix extracted from one of 31 ques
 # Dependencies
 ```bash
 conda create -n [env_name] -y python=3.6
-source activate [env_name]
+conda activate [env_name]
 pip install -r requirement.txt
 cd ./data
 bash download_data.sh

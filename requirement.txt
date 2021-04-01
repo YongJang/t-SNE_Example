@@ -24,7 +24,7 @@ ipywidgets==7.4.2
 javascripthon==0.10
 jedi==0.13.1
 jieba3k==0.35.1
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.13.0
 JPype1==0.6.3
 jsonschema==2.6.0

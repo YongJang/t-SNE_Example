@@ -43,7 +43,7 @@ matplotlib==3.0.0
 mistune==2.0.3
 nb-conda==2.2.1
 nb-conda-kernels==2.1.1
-nbconvert==5.4.0
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.2
 newspaper3k==0.2.8
